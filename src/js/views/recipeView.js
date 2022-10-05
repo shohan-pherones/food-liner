@@ -1,6 +1,5 @@
 import icons from "../../img/icons.svg";
 import "core-js/stable";
-import "regenerator-runtime/runtime";
 
 class RecipeView {
   #parentElement = document.querySelector(".recipe");
