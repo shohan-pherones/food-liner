@@ -1,4 +1,4 @@
-7639
+7630
 79E:\javascript-practices\food-liner\node_modules\core-js\modules\es.object.is.js133093769804363877 0
 62E:\javascript-practices\food-liner\node_modules\terser\LICENSE133093722616740148 0
 73E:\javascript-practices\food-liner\node_modules\node-addon-api\napi-inl.h133093722624730749 0
@@ -39,14 +39,14 @@
 80E:\javascript-practices\food-liner\node_modules\core-js\es\array\virtual\sort.js133093769831015839 0
 99E:\javascript-practices\food-liner\node_modules\lmdb\dependencies\lmdb\libraries\liblmdb\mdb_copy.c133093722635511521 0
 38E:\javascript-practices\food-liner\src133093705320483240 1
-55E:\javascript-practices\food-liner\src\js\controller.js133098012843394113 0
+55E:\javascript-practices\food-liner\src\js\controller.js133098024280463274 0
 68E:\javascript-practices\food-liner\node_modules\lmdb\dependencies\v8133093722645172242 1
 91E:\javascript-practices\food-liner\node_modules\core-js\modules\es.typed-array.to-string.js133093769806384027 0
 77E:\javascript-practices\food-liner\node_modules\core-js\actual\parse-float.js133093769827205555 0
 82E:\javascript-practices\food-liner\node_modules\type-fest\source\package-json.d.ts133093722631881244 0
 60E:\javascript-practices\food-liner\node_modules\entities\lib133093722632571305 1
-39E:\javascript-practices\food-liner\dist133098013825829564 1
-45E:\javascript-practices\food-liner\index.html133096424205619421 0
+39E:\javascript-practices\food-liner\dist133098028777372590 1
+45E:\javascript-practices\food-liner\index.html133098023841880615 0
 87E:\javascript-practices\food-liner\node_modules\svgo\plugins\cleanupEnableBackground.js133093722625740802 0
 78E:\javascript-practices\food-liner\node_modules\type-fest\ts41\camel-case.d.ts133093722624300704 0
 87E:\javascript-practices\food-liner\node_modules\core-js\proposals\map-upsert-stage-2.js133093769824375346 0
@@ -112,10 +112,10 @@
 81E:\javascript-practices\food-liner\node_modules\core-js\features\set-immediate.js133093769829805751 0
 76E:\javascript-practices\food-liner\node_modules\timsort\build\timsort.min.js133093722623600654 0
 79E:\javascript-practices\food-liner\node_modules\caniuse-lite\data\regions\KI.js133093722653402834 0
-62E:\javascript-practices\food-liner\src\js\views\resultsView.js133098012503259224 0
+62E:\javascript-practices\food-liner\src\js\views\resultsView.js133098027139480231 0
 70E:\javascript-practices\food-liner\node_modules\safe-buffer\index.d.ts133093722620750440 0
 78E:\javascript-practices\food-liner\node_modules\core-js\actual\array\values.js133093769836376225 0
-61E:\javascript-practices\food-liner\src\js\views\recipeView.js133098010118639655 0
+61E:\javascript-practices\food-liner\src\js\views\recipeView.js133098026274431138 0
 79E:\javascript-practices\food-liner\node_modules\core-js\internals\math-trunc.js133093769825485437 0
 104E:\javascript-practices\food-liner\node_modules\lmdb\dependencies\lmdb-data-v1\libraries\liblmdb\tooltag133093722628330992 0
 60E:\javascript-practices\food-liner\src\sass\_components.scss133093705969704631 0
@@ -212,7 +212,7 @@
 63E:\javascript-practices\food-liner\node_modules\detect-libc\bin133093722620510423 1
 74E:\javascript-practices\food-liner\node_modules\@parcel\transformer-js\lib133093722623510659 1
 75E:\javascript-practices\food-liner\node_modules\type-fest\source\merge.d.ts133093722630751171 0
-55E:\javascript-practices\food-liner\src\js\views\View.js133098013819949129 0
+55E:\javascript-practices\food-liner\src\js\views\View.js133098028776000993 0
 84E:\javascript-practices\food-liner\node_modules\node-addon-api\tools\clang-format.js133093722626820881 0
 79E:\javascript-practices\food-liner\node_modules\core-js\internals\get-method.js133093769814984660 0
 95E:\javascript-practices\food-liner\node_modules\core-js\features\typed-array\find-last-index.js133093769811274383 0
@@ -220,7 +220,6 @@
 78E:\javascript-practices\food-liner\node_modules\type-fest\source\asyncify.d.ts133093722620930441 0
 87E:\javascript-practices\food-liner\node_modules\core-js\features\typed-array\methods.js133093769825705450 0
 82E:\javascript-practices\food-liner\node_modules\core-js\features\string\pad-end.js133093769826925531 0
-60E:\javascript-practices\food-liner\dist\favicon.76dd299c.png133098003563787869 0
 80E:\javascript-practices\food-liner\node_modules\core-js\es\number\parse-float.js133093769827225563 0
 90E:\javascript-practices\food-liner\node_modules\msgpackr-extract\bin\download-prebuilds.js133093722626810881 0
 52E:\javascript-practices\food-liner\src\img\icons.svg133093727431187358 0
@@ -832,7 +831,6 @@
 52E:\javascript-practices\food-liner\node_modules\yaml133093722639321803 1
 73E:\javascript-practices\food-liner\node_modules\is-arrayish\.editorconfig133093722622010540 0
 65E:\javascript-practices\food-liner\node_modules\terser\PATRONS.md133093722640521882 0
-58E:\javascript-practices\food-liner\dist\index.987de634.css133098003572048489 0
 57E:\javascript-practices\food-liner\node_modules\yaml\dist133093722637431649 1
 75E:\javascript-practices\food-liner\node_modules\core-js\full\array\every.js133093769809724286 0
 70E:\javascript-practices\food-liner\node_modules\dom-serializer\lib\esm133093722626960897 1
@@ -1728,7 +1726,7 @@
 75E:\javascript-practices\food-liner\node_modules\core-js\es\string\substr.js133093769832255922 0
 87E:\javascript-practices\food-liner\node_modules\core-js\internals\number-parse-float.js133093769826045469 0
 64E:\javascript-practices\food-liner\node_modules\svgo\lib\svgo.js133093722642782049 0
-57E:\javascript-practices\food-liner\dist\index.e37f48ea.js133098013825759578 0
+57E:\javascript-practices\food-liner\dist\index.e37f48ea.js133098028777342600 0
 73E:\javascript-practices\food-liner\node_modules\source-map-js\lib\util.js133093723389125584 0
 60E:\javascript-practices\food-liner\node_modules\domutils\lib133093722632131278 1
 68E:\javascript-practices\food-liner\node_modules\core-js\es\README.md133093769837136291 0
@@ -2365,7 +2363,6 @@
 84E:\javascript-practices\food-liner\node_modules\@parcel\core\src\loadParcelPlugin.js133093722643162101 0
 97E:\javascript-practices\food-liner\node_modules\lmdb\dependencies\lmdb\libraries\liblmdb\mtest5.c133093722642772051 0
 89E:\javascript-practices\food-liner\node_modules\core-js\features\typed-array\find-last.js133093769811494404 0
-57E:\javascript-practices\food-liner\dist\index.b467b8e8.js133098003572078500 0
 68E:\javascript-practices\food-liner\node_modules\node-addon-api\tools133093722630801177 1
 84E:\javascript-practices\food-liner\node_modules\caniuse-lite\data\features\brotli.js133093722642772051 0
 80E:\javascript-practices\food-liner\node_modules\core-js\actual\json\stringify.js133093769831985922 0
@@ -3420,7 +3417,7 @@
 94E:\javascript-practices\food-liner\node_modules\caniuse-lite\data\features\css-mixblendmode.js133093722647532405 0
 79E:\javascript-practices\food-liner\node_modules\css-tree\lib\syntax\node\Raw.js133093722644512178 0
 80E:\javascript-practices\food-liner\node_modules\css-tree\lib\syntax\node\Rule.js133093722644532184 0
-62E:\javascript-practices\food-liner\dist\index.f7626f62.css.map133098003637863572 0
+62E:\javascript-practices\food-liner\dist\index.f7626f62.css.map133098014586436181 0
 88E:\javascript-practices\food-liner\node_modules\css-tree\lib\syntax\node\SelectorList.js133093722644632192 0
 64E:\javascript-practices\food-liner\node_modules\braces\README.md133093723388515537 0
 86E:\javascript-practices\food-liner\node_modules\css-tree\lib\syntax\node\StyleSheet.js133093722644922211 0
@@ -4313,7 +4310,6 @@
 93E:\javascript-practices\food-liner\node_modules\core-js\modules\es.typed-array.int32-array.js133093769806164011 0
 92E:\javascript-practices\food-liner\node_modules\core-js\modules\es.typed-array.int8-array.js133093769806174020 0
 95E:\javascript-practices\food-liner\node_modules\core-js\modules\es.typed-array.last-index-of.js133093769806214018 0
-57E:\javascript-practices\food-liner\dist\index.5d68655c.js133098013220199594 0
 73E:\javascript-practices\food-liner\node_modules\core-js\es\array\index.js133093769817884872 0
 85E:\javascript-practices\food-liner\node_modules\core-js\modules\es.typed-array.map.js133093769806224021 0
 84E:\javascript-practices\food-liner\node_modules\core-js\modules\es.typed-array.of.js133093769806244021 0
@@ -5247,7 +5243,6 @@
 91E:\javascript-practices\food-liner\node_modules\caniuse-lite\data\features\input-pattern.js133093722652742784 0
 89E:\javascript-practices\food-liner\node_modules\core-js\features\typed-array\unique-by.js133093769835946198 0
 86E:\javascript-practices\food-liner\node_modules\core-js\features\typed-array\values.js133093769836506234 0
-61E:\javascript-practices\food-liner\dist\index.5d68655c.js.map133098013220249620 0
 88E:\javascript-practices\food-liner\node_modules\core-js\features\symbol\async-dispose.js133093769797228207 0
 97E:\javascript-practices\food-liner\node_modules\core-js\features\array\virtual\find-last-index.js133093769811264395 0
 89E:\javascript-practices\food-liner\node_modules\core-js\features\symbol\async-iterator.js133093769797398212 0
@@ -5608,7 +5603,6 @@
 88E:\javascript-practices\food-liner\node_modules\@parcel\core\lib\requests\PathRequest.js133093722644662183 0
 80E:\javascript-practices\food-liner\node_modules\core-js\es\typed-array\reduce.js133093769828395646 0
 90E:\javascript-practices\food-liner\node_modules\core-js\es\typed-array\to-locale-string.js133093769833506015 0
-61E:\javascript-practices\food-liner\dist\index.b467b8e8.js.map133098003572148488 0
 83E:\javascript-practices\food-liner\node_modules\core-js\es\typed-array\to-string.js133093769834526097 0
 82E:\javascript-practices\food-liner\node_modules\caniuse-lite\data\features\hevc.js133093722652152752 0
 82E:\javascript-practices\food-liner\node_modules\caniuse-lite\data\features\avif.js133093722636851625 0
@@ -6409,7 +6403,7 @@
 90E:\javascript-practices\food-liner\node_modules\caniuse-lite\data\features\console-time.js133093722644852202 0
 93E:\javascript-practices\food-liner\node_modules\caniuse-lite\data\features\contenteditable.js133093722644922211 0
 99E:\javascript-practices\food-liner\node_modules\caniuse-lite\data\features\contentsecuritypolicy.js133093722644932213 0
-58E:\javascript-practices\food-liner\dist\index.f7626f62.css133098003637783565 0
+58E:\javascript-practices\food-liner\dist\index.f7626f62.css133098014586346173 0
 100E:\javascript-practices\food-liner\node_modules\caniuse-lite\data\features\contentsecuritypolicy2.js133093722644952221 0
 99E:\javascript-practices\food-liner\node_modules\caniuse-lite\data\features\credential-management.js133093722645142234 0
 98E:\javascript-practices\food-liner\node_modules\caniuse-lite\data\features\intersectionobserver.js133093722652862792 0
@@ -6756,7 +6750,7 @@
 69E:\javascript-practices\food-liner\node_modules\browserslist\parse.js133093722623700678 0
 58E:\javascript-practices\food-liner\node_modules\braces\lib133093723388805572 1
 69E:\javascript-practices\food-liner\node_modules\braces\lib\compile.js133093723388565552 0
-61E:\javascript-practices\food-liner\dist\index.e37f48ea.js.map133098013825809563 0
+61E:\javascript-practices\food-liner\dist\index.e37f48ea.js.map133098028777362611 0
 68E:\javascript-practices\food-liner\node_modules\braces\lib\expand.js133093723388645580 0
 67E:\javascript-practices\food-liner\node_modules\braces\lib\parse.js133093723388785557 0
 74E:\javascript-practices\food-liner\node_modules\@parcel\utils\lib\index.js133093722636521587 0
@@ -6956,7 +6950,7 @@
 112E:\javascript-practices\food-liner\node_modules\@parcel\workers\test\integration\workerfarm\master-process-id.js133093722630731181 0
 105E:\javascript-practices\food-liner\node_modules\@parcel\workers\test\integration\workerfarm\master-sum.js133093722631261207 0
 109E:\javascript-practices\food-liner\node_modules\@parcel\workers\test\integration\workerfarm\reverse-handle.js133093722633891412 0
-57E:\javascript-practices\food-liner\dist\logo.726d37a8.png133098003637793579 0
+57E:\javascript-practices\food-liner\dist\logo.726d37a8.png133098014586356185 0
 111E:\javascript-practices\food-liner\node_modules\@parcel\workers\test\integration\workerfarm\shared-reference.js133093722634091404 0
 73E:\javascript-practices\food-liner\node_modules\@lezer\lr\dist\stack.d.ts133093722625790819 0
 78E:\javascript-practices\food-liner\node_modules\@parcel\workers\src\backend.js133093722618200245 0
@@ -7438,7 +7432,7 @@
 102E:\javascript-practices\food-liner\node_modules\@parcel\core\test\fixtures\targets-default-distdir-one133093722647492401 1
 116E:\javascript-practices\food-liner\node_modules\@parcel\core\test\fixtures\targets-default-distdir-none\package.json133093722647482401 0
 95E:\javascript-practices\food-liner\node_modules\@parcel\core\test\fixtures\plugins\node_modules133093722642792064 1
-60E:\javascript-practices\food-liner\dist\favicon.8b2f57bf.png133098003637783565 0
+60E:\javascript-practices\food-liner\dist\favicon.8b2f57bf.png133098014586346173 0
 126E:\javascript-practices\food-liner\node_modules\@parcel\core\test\fixtures\plugins\node_modules\parcel-transformer-bad-engines133093722647462405 1
 134E:\javascript-practices\food-liner\node_modules\@parcel\core\test\fixtures\plugins\node_modules\parcel-transformer-no-engines\index.js133093722642812059 0
 138E:\javascript-practices\food-liner\node_modules\@parcel\core\test\fixtures\plugins\node_modules\parcel-transformer-no-engines\package.json133093722647472391 0
@@ -7633,8 +7627,5 @@
 63E:\javascript-practices\food-liner\node_modules\.bin\semver.ps1133093722665103694 0
 61E:\javascript-practices\food-liner\node_modules\.bin\svgo.ps1133093722665113696 0
 63E:\javascript-practices\food-liner\node_modules\.bin\terser.cmd133093722665103694 0
-58E:\javascript-practices\food-liner\dist\icons.21bad73c.svg133098003637783565 0
-58E:\javascript-practices\food-liner\dist\icons.c14567a0.svg133098003563787869 0
-62E:\javascript-practices\food-liner\dist\index.987de634.css.map133098003572098490 0
-50E:\javascript-practices\food-liner\dist\index.html133098013220199594 0
-57E:\javascript-practices\food-liner\dist\logo.8a7af738.png133098003563787869 0
+58E:\javascript-practices\food-liner\dist\icons.21bad73c.svg133098014586336178 0
+50E:\javascript-practices\food-liner\dist\index.html133098023848061072 0
