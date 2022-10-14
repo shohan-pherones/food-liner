@@ -1,20 +1,16 @@
-// $color-primary: #f59a83;
-$color-primary: #f38e82;
-$color-grad-1: #fbdb89;
-$color-grad-2: #f48982;
-
-$color-grey-light-1: #f9f5f3; // Light background
-$color-grey-light-2: #f2efee; // Light lines
-$color-grey-light-3: #d3c7c3; // Light text (placeholder)
-$color-grey-dark-1: #615551; // Normal text
-$color-grey-dark-2: #918581; // Lighter text
-
+$color-primary: #ff6b51;
+$color-grad-1: #ffde83;
+$color-grad-2: #ff6b51;
+$color-grey-light-1: #f9f5f3;
+$color-grey-light-2: #f2efee;
+$color-grey-light-3: #d3c7c3;
+$color-grey-dark-1: #615551;
+$color-grey-dark-2: #918581;
 $gradient: linear-gradient(to right bottom, $color-grad-1, $color-grad-2);
-
-$bp-large: 78.15em; // 1250px
-$bp-medium: 61.25em; // 980px
-$bp-small: 37.5em; // 600px
-$bp-smallest: 31.25em; // 500px
+$bp-large: 78.15em;
+$bp-medium: 61.25em;
+$bp-small: 37.5em;
+$bp-smallest: 31.25em;
 
 * {
   margin: 0;
@@ -55,7 +51,6 @@ body {
   border-radius: 9px;
   overflow: hidden;
   box-shadow: 0 2rem 6rem 0.5rem rgba($color-grey-dark-1, 0.2);
-
   display: grid;
   grid-template-rows: 10rem minmax(100rem, auto);
   grid-template-columns: 1fr 2fr;

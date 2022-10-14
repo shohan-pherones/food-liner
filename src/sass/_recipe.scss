@@ -1,12 +1,9 @@
 .recipe {
   background-color: $color-grey-light-1;
 
-  ///////////
-  // FIGURE
   &__fig {
     height: 32rem;
     position: relative;
-    // transform: scale(1.04) translateY(-1px);
     transform-origin: top;
 
     &::before {
@@ -62,8 +59,6 @@
     }
   }
 
-  ///////////
-  // DETAILS
   &__details {
     display: flex;
     align-items: center;
@@ -101,14 +96,12 @@
 
   &__user-generated {
     background-color: darken($color-grey-light-2, 2%);
-
     display: flex;
     align-items: center;
     justify-content: center;
     height: 4rem;
     width: 4rem;
     border-radius: 10rem;
-
     margin-left: auto;
     margin-right: 1.75rem;
 
@@ -119,8 +112,6 @@
     }
   }
 
-  ///////////
-  // INGREDIENTS
   &__ingredients {
     padding: 5rem 8rem;
     font-size: 1.6rem;
@@ -156,8 +147,6 @@
     flex: 0 0 auto;
   }
 
-  ///////////
-  // DIRECTIONS
   &__directions {
     padding: 5rem 10rem;
     padding-bottom: 5rem;

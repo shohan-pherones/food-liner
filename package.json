@@ -1,20 +1,29 @@
 {
-  "name": "foodliner",
-  "version": "1.0.0",
-  "description": "Recipe application",
   "scripts": {
     "start": "parcel index.html --open",
     "build": "parcel build index.html"
   },
-  "author": "Md. Shohanur Rahman",
-  "license": "ISC",
   "devDependencies": {
     "@parcel/transformer-sass": "^2.7.0",
-    "parcel": "^2.7.0"
+    "parcel": "^2.7.0",
+    "sass": "^1.55.0"
   },
   "dependencies": {
     "core-js": "^3.25.5",
-    "regenerator-runtime": "^0.13.9",
-    "sass": "^1.55.0"
-  }
+    "fractional": "^1.0.0",
+    "regenerator-runtime": "^0.13.10"
+  },
+  "name": "food-liner",
+  "version": "1.0.0",
+  "description": "Recipe application",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/shohan-pherones/food-liner.git"
+  },
+  "author": "Shohan",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/shohan-pherones/food-liner/issues"
+  },
+  "homepage": "https://github.com/shohan-pherones/food-liner#readme"
 }
